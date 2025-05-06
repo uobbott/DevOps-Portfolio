@@ -72,4 +72,4 @@ Seasoned DevOps Engineer with 7+ years of experience building and scaling cloud-
 ## Contact Information
 - **Email:** utoobbott@gmail.com
 - **LinkedIn:** [https://www.linkedin.com/in/uto-obbott/](https://www.linkedin.com/in/uto-obbott/)
-- **GitHub:** [YourGitHubUsername](https://github.com/YourGitHubUsername)
+- **GitHub:** https://github.com/uobbott/DevOps-Portfolio/blob/main/README.md
